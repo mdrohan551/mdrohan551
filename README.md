@@ -1,4 +1,4 @@
-![banner]([https://www.canva.com/design/DAGJtw76c-E/x_I9wOYy5yIOpafyaAYguQ/view](https://github.com/mdrohan551/mdrohan551/blob/main/Simple%20Work%20LinkedIn%20Banner.png]))
+![banner](https://github.com/mdrohan551/mdrohan551/blob/main/Simple%20Work%20LinkedIn%20Banner.png))
 
 <h1 align="center">Hi 👋, I'm ROHAN mohammad</h1>
 <h3 align="center">A passionate frontend developer from bangladesh</h3>
