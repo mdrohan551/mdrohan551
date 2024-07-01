@@ -1,4 +1,4 @@
-![banner](https://github.com/mdrohan551/mdrohan551/blob/main/mern.png)
+![banner]()
 
 <h1 align="center">Hi 👋, I'm ROHAN mohammad</h1>
 <h3 align="center">A passionate frontend developer from bangladesh</h3>
