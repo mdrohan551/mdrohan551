@@ -1,4 +1,4 @@
-![banner]()
+![banner](https://www.canva.com/design/DAGJtw76c-E/x_I9wOYy5yIOpafyaAYguQ/view)
 
 <h1 align="center">Hi 👋, I'm ROHAN mohammad</h1>
 <h3 align="center">A passionate frontend developer from bangladesh</h3>
