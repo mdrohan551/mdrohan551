@@ -1,7 +1,11 @@
 ![banner](https://github.com/mdrohan551/mdrohan551/blob/main/Simple%20Work%20LinkedIn%20Banner.png)
 
 <h1 align="center">Hi 👋, I'm ROHAN mohammad</h1>
-<h3 align="center">A passionate frontend developer from bangladesh</h3>
+<h3 align="center">A professional frontend developer </h3>
+<p align="center">Highly motivated junior Front-End Developer with a strong foundation 
+in HTML, CSS, JavaScript, And  Eager to contribute creativity and 
+technical skills to dynamic projects, enhancing user experiences 
+through responsive and visually appealing web interfaces  </p>
 <img align="right" width="400" alt="coding" src="https://media1.giphy.com/media/u2pmTWUi0MXjyrMaVj/giphy.gif?cid=ecf05e47nns3puoe8rg5q12fwyhsxu0zvmeaf31pzo2zmjos&ep=v1_gifs_search&rid=giphy.gif&ct=g"
 <img  align="right" width="400" alt="coding" src="alt="coding""
 <p align="left"> <img src="" alt="mdrohan551" /> 
