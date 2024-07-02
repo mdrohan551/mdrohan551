@@ -2,7 +2,7 @@
 
 <h1 align="center">Hi 👋, I'm ROHAN mohammad</h1>
 <h3 align="center">A professional frontend developer </h3>
-<p align="center">Highly motivated junior Front-End Developer with a strong foundation 
+<p align="left">Highly motivated junior Front-End Developer with a strong foundation 
 in HTML, CSS, JavaScript, And  Eager to contribute creativity and 
 technical skills to dynamic projects, enhancing user experiences 
 through responsive and visually appealing web interfaces  </p>
