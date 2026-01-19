@@ -34,15 +34,6 @@ I am a **Highly Motivated Full-Stack (MERN) Developer** with a specialized focus
   <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
 </div>
 
----
-
-### 📊 GitHub Statistics
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdrohan551&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrohan551&layout=compact&theme=tokyonight"/>
-</div>
-
----
 
 ### 🤝 Connect with me
 <p align="left">
