@@ -80,19 +80,20 @@ I'm a **Highly Motivated Full-Stack (MERN) Developer**, specialized in building 
 
 ## 📊 GitHub Analytics
 
+<div align="center">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mdrohan551&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&rank_icon=github" alt="Rohan's GitHub Stats" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mdrohan551&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+</div>
 
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=mdrohan551&theme=tokyonight" alt="GitHub Streak Stats" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrohan551&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Contribution Activity Graph" width="100%" />
 </div>
 
-<div align="center">
-  <img src="https://ghchart.rshah.org/0e75b6/mdrohan551" alt="Rohan's GitHub Contribution Chart" width="100%" />
-</div>
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=mdrohan551&theme=tokyonight&no-frame=true&row=1&column=7" alt="GitHub Trophies" />
-</div>
 
 ---
 
