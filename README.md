@@ -1,11 +1,11 @@
 <div align="center">
-  <img src="https://github.com/mdrohan551/mdrohan551/raw/main/Simple%20Work%20LinkedIn%20Banner.png" width="100%" alt="Rohan Mohammad - Full Stack MERN, Next.js & AI/ML Agent Developer Banner" />
+  <img src="https://github.com/mdrohan551/mdrohan551/raw/main/Simple%20Work%20LinkedIn%20Banner.png" width="100%" alt="Rohan Mohammad - Full Stack MERN & Next.js Developer Banner" />
 
   <h1>Hi 👋, I'm <a href="https://www.linkedin.com/in/rohanmohammad">Rohan Mohammad</a></h1>
-  <h3>🚀 Full-Stack MERN & Next.js Developer | 🤖 AI/ML Agent Developer | Frontend Architecture Specialist</h3>
+  <h3>🚀 Full-Stack MERN & Next.js Developer | 🧠 AI-Powered Solutions Builder | Frontend Architecture Specialist</h3>
 
   <p>
-    Building fast, scalable web applications and intelligent AI-powered agents that solve real-world problems.
+    Building fast, scalable web applications and leveraging AI tools to ship smarter, more efficient software solutions.
   </p>
 
   <p align="center">
@@ -21,13 +21,13 @@
 
 ## 📝 About Me
 
-I'm a **Highly Motivated Full-Stack (MERN) Developer** and **AI/ML Agent Developer**, specialized in building high-performance, responsive web applications and intelligent autonomous agents. My expertise spans **Next.js**, **React**, **TypeScript**, and modern **AI agent frameworks**, where I transform complex ideas into seamless, production-ready products.
+I'm a **Highly Motivated Full-Stack (MERN) Developer**, specialized in building high-performance, responsive web applications. My core expertise spans **Next.js**, **React**, and **TypeScript**, where I transform complex designs into seamless user experiences. Alongside web development, I actively use **AI tools and AI agents** to build smarter, faster software solutions — and I'm continuously growing my skills in **AI/ML** and **Python**.
 
 - 🔭 Currently building professional-grade products at **DeepVerse Lab**
-- 🤖 Exploring **AI Agents**, **LLM Integrations**, and **RAG-based applications**
-- ⚛️ Specializing in **Frontend Architecture**, **Performance Optimization** & **Scalable Backend Systems**
-- 🌱 Currently learning **LangChain**, **Agentic Workflows** & **Vector Databases**
-- 💬 Ask me about **React, Next.js, Node.js, MongoDB, TypeScript, AI Agents**
+- 🧠 Using **AI tools & AI agents** to deliver efficient, smart software solutions
+- 🌱 Currently learning **AI/ML fundamentals** and building my **Python** skills
+- ⚛️ Specializing in **Frontend Architecture** & **Performance Optimization**
+- 💬 Ask me about **React, Next.js, Node.js, MongoDB, TypeScript**
 - ⚡ **Fun fact:** I believe clean code is the best documentation.
 
 ---
@@ -55,17 +55,16 @@ I'm a **Highly Motivated Full-Stack (MERN) Developer** and **AI/ML Agent Develop
   <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" alt="PostgreSQL" />
 </div>
 
-### 🤖 AI / ML & Agent Development
+### 🧠 AI Tools & Learning (Basic Python | AI/ML in Progress)
 <div align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI" />
-  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face" />
-  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python (Basics)" />
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI Tools" />
+  <img src="https://img.shields.io/badge/ChatGPT-74AA9C?style=for-the-badge&logo=openai&logoColor=white" alt="ChatGPT" />
+  <img src="https://img.shields.io/badge/AI%20Agents-6366F1?style=for-the-badge&logo=robotframework&logoColor=white" alt="AI Agents" />
+  <img src="https://img.shields.io/badge/Prompt%20Engineering-8A2BE2?style=for-the-badge&logo=OpenAI&logoColor=white" alt="Prompt Engineering" />
 </div>
+
+> 🌱 **Note:** I'm currently learning AI/ML from the ground up. I know basic Python, and I actively use AI tools & AI agents to build practical software solutions while I continue growing my AI/ML skills.
 
 ### 🧰 Tools & Platforms
 <div align="left">
@@ -87,11 +86,15 @@ I'm a **Highly Motivated Full-Stack (MERN) Developer** and **AI/ML Agent Develop
 </div>
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mdrohan551&theme=tokyonight" alt="GitHub Streak Stats" />
+  <img src="https://streak-stats.demolab.com/?user=mdrohan551&theme=tokyonight" alt="GitHub Streak Stats" />
 </div>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrohan551&theme=tokyo-night&hide_border=true" alt="Contribution Activity Graph" width="100%" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mdrohan551&theme=tokyo-night&hide_border=true&bg_color=1a1b27" alt="Contribution Activity Graph" width="100%" />
+</div>
+
+<div align="center">
+  <img src="https://ghchart.rshah.org/0e75b6/mdrohan551" alt="Rohan's GitHub Contribution Chart" width="100%" />
 </div>
 
 <div align="center">
@@ -118,5 +121,5 @@ I'm a **Highly Motivated Full-Stack (MERN) Developer** and **AI/ML Agent Develop
 </p>
 
 <div align="center">
-  <sub>⭐ From <a href="https://github.com/mdrohan551">mdrohan551</a> — Full-Stack MERN, Next.js & AI/ML Agent Developer based in Bangladesh.</sub>
+  <sub>⭐ From <a href="https://github.com/mdrohan551">mdrohan551</a> — Full-Stack MERN & Next.js Developer, building AI-powered solutions, based in Bangladesh.</sub>
 </div>
